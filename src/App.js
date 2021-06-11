@@ -30,7 +30,7 @@ function App() {
     <div className="coin-app">
       <div className="coin-search">
         <h1 className="coin-text">
-        <box-icon size='lg' type='solid' name='cube' animation='burst'></box-icon> Welcome to Crypto Cubes <box-icon size='lg' type='solid' name='cube' animation='burst'></box-icon></h1>
+        <box-icon size='lg' type='solid' name='cube' animation='burst'></box-icon> Welcome to Crypto Cubez <box-icon size='lg' type='solid' name='cube' animation='burst'></box-icon></h1>
         <h3 className="coin-text">Your home for finding real-time cryptocurrency prices.</h3>
         <h3 className="coin-text">Search for a currency<box-icon className='fart' size='md' name='down-arrow-alt' animation='tada-hover' ></box-icon></h3>
         <form>
